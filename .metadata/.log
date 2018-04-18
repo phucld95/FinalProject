@@ -753,3 +753,544 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-17 23:36:08.831
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.716
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.719
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.756
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.758
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.781
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.784
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.887
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.895
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.959
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:35.960
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.007
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.021
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.060
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.068
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.129
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.219
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.265
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.270
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.298
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.301
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.352
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.363
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.413
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.415
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.468
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.470
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.512
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.516
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.541
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.544
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.577
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.586
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.628
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.631
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.715
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.717
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.761
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.762
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.816
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.821
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.889
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:36.891
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.005
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.007
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.078
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.086
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.345
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:37.348
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.160
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.162
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.205
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.211
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.270
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:17:38.274
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:20:45.809
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:20:45.811
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:21:36.257
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:21:36.258
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.218
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.222
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.252
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.253
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.286
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.287
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.325
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.327
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.354
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.358
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.394
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.395
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.419
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.425
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.482
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.492
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.523
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.524
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.557
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.559
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.584
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.585
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.612
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.614
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.659
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.660
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.707
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.708
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.740
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.741
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.765
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.766
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.797
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.798
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.826
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.828
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.856
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.858
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.888
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.889
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.942
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:36.944
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.137
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.143
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.171
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.173
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.266
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.267
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.675
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.676
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.694
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.695
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.715
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:26:37.717
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-04-18 00:30:57.283
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/org.eclipse.om2m.sample.ipe/pom.xml)
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Contains: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 25 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2018-04-18 00:30:57.295
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2018-04-18 00:30:57.295
+!MESSAGE 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1.qualifier: Could not find artifact org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in central (https://repo.maven.apache.org/maven2) and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 25 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-04-18 00:32:21.235
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-04-18 00:34:21.008
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161)
+	... 15 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:34:28.352
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:34:28.364
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:34:28.365
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:35:43.020
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:35:43.034
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:35:43.034
+!MESSAGE Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:37:30.128
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:37:30.136
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:39:12.363
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-18 00:39:12.377
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

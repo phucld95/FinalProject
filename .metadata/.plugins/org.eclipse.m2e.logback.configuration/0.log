@@ -612,3 +612,521 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2018-04-17 23:36:08,859 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/main/resources
 2018-04-17 23:36:08,861 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-17 23:36:08,862 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/test/resources
+2018-04-18 00:14:36,887 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.1.0-SNAPSHOT @ /home/lephuc/git/org.eclipse.om2m/pom.xml.
+2018-04-18 00:15:46,603 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:15:46,608 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:17:35,692 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,717 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons/src/main/resources
+2018-04-18 00:17:35,719 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,720 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons/src/test/resources
+2018-04-18 00:17:35,755 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,756 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.service/src/main/resources
+2018-04-18 00:17:35,758 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,758 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.service/src/test/resources
+2018-04-18 00:17:35,781 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,782 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons.logging/src/main/resources
+2018-04-18 00:17:35,784 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,784 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons.logging/src/test/resources
+2018-04-18 00:17:35,887 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,888 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core.service/src/main/resources
+2018-04-18 00:17:35,895 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,895 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core.service/src/test/resources
+2018-04-18 00:17:35,958 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,959 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.http/src/main/resources
+2018-04-18 00:17:35,960 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:35,960 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.http/src/test/resources
+2018-04-18 00:17:36,005 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,007 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.coap/src/main/resources
+2018-04-18 00:17:36,020 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,021 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.coap/src/test/resources
+2018-04-18 00:17:36,060 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,062 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal/src/main/resources
+2018-04-18 00:17:36,067 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,068 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal/src/test/resources
+2018-04-18 00:17:36,127 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,202 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2018-04-18 00:17:36,218 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,219 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal.driver.sample/src/test/resources
+2018-04-18 00:17:36,265 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,266 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.datamapping.service/src/main/resources
+2018-04-18 00:17:36,270 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,271 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.datamapping.service/src/test/resources
+2018-04-18 00:17:36,298 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,299 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-18 00:17:36,301 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,302 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-18 00:17:36,352 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,352 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.mqtt/src/main/resources
+2018-04-18 00:17:36,363 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,363 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.mqtt/src/test/resources
+2018-04-18 00:17:36,413 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,413 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.flexcontainer.service/src/main/resources
+2018-04-18 00:17:36,415 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,416 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.flexcontainer.service/src/test/resources
+2018-04-18 00:17:36,467 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,468 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.interworking.service/src/main/resources
+2018-04-18 00:17:36,470 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,470 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.interworking.service/src/test/resources
+2018-04-18 00:17:36,512 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,512 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.das.testsuite/src/main/resources
+2018-04-18 00:17:36,516 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,516 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.das.testsuite/src/test/resources
+2018-04-18 00:17:36,540 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,541 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-18 00:17:36,543 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,544 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sample/src/test/resources
+2018-04-18 00:17:36,576 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,577 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.service/src/main/resources
+2018-04-18 00:17:36,586 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,587 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.service/src/test/resources
+2018-04-18 00:17:36,628 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,629 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to META-INF/
+2018-04-18 00:17:36,630 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,631 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.eclipselink/src/test/resources
+2018-04-18 00:17:36,715 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,716 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/
+2018-04-18 00:17:36,717 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,717 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.mongodb/src/test/resources
+2018-04-18 00:17:36,760 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,761 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.dal/src/main/resources
+2018-04-18 00:17:36,762 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,763 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.dal/src/test/resources
+2018-04-18 00:17:36,813 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,817 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core/src/main/resources
+2018-04-18 00:17:36,820 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,821 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core/src/test/resources
+2018-04-18 00:17:36,853 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:36,853 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/main/resources
+2018-04-18 00:17:36,855 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:36,855 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/test/resources
+2018-04-18 00:17:36,888 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,889 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-04-18 00:17:36,891 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:36,891 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt.comparator.xml/src/test/resources
+2018-04-18 00:17:36,918 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:36,919 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home/src/main/resources
+2018-04-18 00:17:36,922 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:36,923 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home/src/test/resources
+2018-04-18 00:17:37,004 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,005 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt.testsuite/src/main/resources
+2018-04-18 00:17:37,006 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,007 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt.testsuite/src/test/resources
+2018-04-18 00:17:37,078 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,080 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-18 00:17:37,085 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,086 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt/src/test/resources
+2018-04-18 00:17:37,173 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,174 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.driver/src/main/resources
+2018-04-18 00:17:37,175 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,175 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.driver/src/test/resources
+2018-04-18 00:17:37,243 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,243 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.cloud/src/main/resources
+2018-04-18 00:17:37,244 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,244 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.cloud/src/test/resources
+2018-04-18 00:17:37,343 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,346 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-18 00:17:37,347 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:37,348 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sample.sdt/src/test/resources
+2018-04-18 00:17:37,419 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,420 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.lifx/src/main/resources
+2018-04-18 00:17:37,428 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,428 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-18 00:17:37,503 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,507 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-18 00:17:37,516 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,516 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.enocean/src/test/resources
+2018-04-18 00:17:37,647 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,647 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.mocked.devices/src/main/resources
+2018-04-18 00:17:37,650 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,650 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.mocked.devices/src/test/resources
+2018-04-18 00:17:37,828 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,833 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 45 resources
+2018-04-18 00:17:37,837 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,837 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.applications/org.eclipse.om2m.sdt.home.monitoring/src/test/resources
+2018-04-18 00:17:37,889 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,890 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-18 00:17:37,892 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,892 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.tester/src/test/resources
+2018-04-18 00:17:37,948 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,948 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.utils/src/main/resources
+2018-04-18 00:17:37,977 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:37,978 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.utils/src/test/resources
+2018-04-18 00:17:38,160 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,161 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.testsuite.flexcontainer/src/main/resources
+2018-04-18 00:17:38,162 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,162 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.testsuite.flexcontainer/src/test/resources
+2018-04-18 00:17:38,204 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,207 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-18 00:17:38,210 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,211 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.webapp.resourcesbrowser.json/src/test/resources
+2018-04-18 00:17:38,269 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,270 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-18 00:17:38,273 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:17:38,274 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.webapp.resourcesbrowser.xml/src/test/resources
+2018-04-18 00:17:38,491 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:38,495 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.netatmo/src/main/resources
+2018-04-18 00:17:38,503 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:38,504 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-18 00:17:38,576 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:38,577 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.smartercoffee/src/main/resources
+2018-04-18 00:17:38,583 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:17:38,584 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.smartercoffee/src/test/resources
+2018-04-18 00:20:45,763 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.sonatype.tycho.m2e.tychoLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.1.0-SNAPSHOT @ /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml.
+2018-04-18 00:20:45,809 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:20:45,810 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/main/resources
+2018-04-18 00:20:45,811 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:20:45,812 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/test/resources
+2018-04-18 00:20:57,134 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:20:57,135 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:21:36,234 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.sonatype.tycho.m2e.tychoLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.om2m:org.eclipse.om2m.sample.ipe:0.0.1-SNAPSHOT @ /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml.
+2018-04-18 00:21:36,257 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:21:36,257 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/main/resources
+2018-04-18 00:21:36,258 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:21:36,258 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/test/resources
+2018-04-18 00:21:44,685 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:21:44,685 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:26:36,217 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,218 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons/src/main/resources
+2018-04-18 00:26:36,222 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,222 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons/src/test/resources
+2018-04-18 00:26:36,252 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,252 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.service/src/main/resources
+2018-04-18 00:26:36,253 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,253 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.service/src/test/resources
+2018-04-18 00:26:36,286 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,286 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons.logging/src/main/resources
+2018-04-18 00:26:36,287 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,287 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.commons.logging/src/test/resources
+2018-04-18 00:26:36,324 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,325 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core.service/src/main/resources
+2018-04-18 00:26:36,327 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,327 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core.service/src/test/resources
+2018-04-18 00:26:36,353 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,356 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.http/src/main/resources
+2018-04-18 00:26:36,358 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,358 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.http/src/test/resources
+2018-04-18 00:26:36,394 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,394 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.coap/src/main/resources
+2018-04-18 00:26:36,395 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,395 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.coap/src/test/resources
+2018-04-18 00:26:36,419 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,419 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal/src/main/resources
+2018-04-18 00:26:36,425 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,425 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal/src/test/resources
+2018-04-18 00:26:36,482 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,491 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:36,492 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,493 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.dal.driver.sample/src/test/resources
+2018-04-18 00:26:36,522 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,523 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.datamapping.service/src/main/resources
+2018-04-18 00:26:36,524 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,524 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.datamapping.service/src/test/resources
+2018-04-18 00:26:36,557 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,558 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:36,559 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,559 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:36,584 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,584 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.mqtt/src/main/resources
+2018-04-18 00:26:36,585 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,585 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.binding.mqtt/src/test/resources
+2018-04-18 00:26:36,612 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,612 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.flexcontainer.service/src/main/resources
+2018-04-18 00:26:36,613 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,614 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.flexcontainer.service/src/test/resources
+2018-04-18 00:26:36,658 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,659 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.interworking.service/src/main/resources
+2018-04-18 00:26:36,660 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,660 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.interworking.service/src/test/resources
+2018-04-18 00:26:36,706 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,707 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.das.testsuite/src/main/resources
+2018-04-18 00:26:36,708 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,708 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.das.testsuite/src/test/resources
+2018-04-18 00:26:36,740 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,740 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:36,741 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,743 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sample/src/test/resources
+2018-04-18 00:26:36,764 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,765 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.service/src/main/resources
+2018-04-18 00:26:36,766 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,766 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.service/src/test/resources
+2018-04-18 00:26:36,797 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,797 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/
+2018-04-18 00:26:36,798 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,798 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.eclipselink/src/test/resources
+2018-04-18 00:26:36,825 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,826 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to META-INF/
+2018-04-18 00:26:36,828 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,828 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.persistence.mongodb/src/test/resources
+2018-04-18 00:26:36,856 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,856 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.dal/src/main/resources
+2018-04-18 00:26:36,857 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,860 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.dal/src/test/resources
+2018-04-18 00:26:36,888 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,888 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core/src/main/resources
+2018-04-18 00:26:36,889 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,889 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.core/src/test/resources
+2018-04-18 00:26:36,916 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:36,916 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/main/resources
+2018-04-18 00:26:36,917 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:36,921 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.api/src/test/resources
+2018-04-18 00:26:36,941 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,942 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:36,944 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:36,944 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt.comparator.xml/src/test/resources
+2018-04-18 00:26:36,976 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:36,976 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home/src/main/resources
+2018-04-18 00:26:36,979 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:36,979 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home/src/test/resources
+2018-04-18 00:26:37,136 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,138 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt.testsuite/src/main/resources
+2018-04-18 00:26:37,142 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,143 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt.testsuite/src/test/resources
+2018-04-18 00:26:37,169 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,172 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,173 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,174 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sdt/src/test/resources
+2018-04-18 00:26:37,207 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,207 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.driver/src/main/resources
+2018-04-18 00:26:37,207 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,207 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.driver/src/test/resources
+2018-04-18 00:26:37,241 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,241 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.cloud/src/main/resources
+2018-04-18 00:26:37,242 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,242 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.cloud/src/test/resources
+2018-04-18 00:26:37,265 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,266 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,267 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,267 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.ipe.sample.sdt/src/test/resources
+2018-04-18 00:26:37,302 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,302 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.lifx/src/main/resources
+2018-04-18 00:26:37,305 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,305 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,341 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,341 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,342 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,342 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.enocean/src/test/resources
+2018-04-18 00:26:37,401 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,401 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.mocked.devices/src/main/resources
+2018-04-18 00:26:37,404 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,404 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.mocked.devices/src/test/resources
+2018-04-18 00:26:37,459 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,460 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,462 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,462 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.applications/org.eclipse.om2m.sdt.home.monitoring/src/test/resources
+2018-04-18 00:26:37,532 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,533 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,534 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,535 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.tester/src/test/resources
+2018-04-18 00:26:37,580 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,580 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.utils/src/main/resources
+2018-04-18 00:26:37,581 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,581 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.utils/src/test/resources
+2018-04-18 00:26:37,675 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,676 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.testsuite.flexcontainer/src/main/resources
+2018-04-18 00:26:37,676 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,676 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.testsuite.flexcontainer/src/test/resources
+2018-04-18 00:26:37,694 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,695 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,695 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,696 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.webapp.resourcesbrowser.json/src/test/resources
+2018-04-18 00:26:37,714 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,716 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,717 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:26:37,717 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.webapp.resourcesbrowser.xml/src/test/resources
+2018-04-18 00:26:37,738 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,739 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.netatmo/src/main/resources
+2018-04-18 00:26:37,739 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,739 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-18 00:26:37,766 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,766 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.smartercoffee/src/main/resources
+2018-04-18 00:26:37,767 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-18 00:26:37,767 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/git/org.eclipse.om2m/org.eclipse.om2m.sdt/org.eclipse.om2m.sdt.home.smartercoffee/src/test/resources
+2018-04-18 00:30:57,215 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/om2m/org.eclipse.om2m/1.1.0.qualifier/org.eclipse.om2m-1.1.0.qualifier.pom
+2018-04-18 00:30:57,215 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/om2m/org.eclipse.om2m/1.1.0.qualifier/org.eclipse.om2m-1.1.0.qualifier.pom
+2018-04-18 00:30:57,282 [Worker-56] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/org.eclipse.om2m.sample.ipe/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+2018-04-18 00:31:03,442 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:31:03,442 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:32:21,235 [Worker-46] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) [org.eclipse.m2e.editor_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 15 common frames omitted
+2018-04-18 00:32:32,080 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:32:32,081 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:34:21,008 [Worker-56] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+ for project org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier at /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192) ~[org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) [org.eclipse.m2e.editor_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.8.3.20180227-2137.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier
+[FATAL] Non-resolvable parent POM for org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier: Failure to find org.eclipse.om2m:org.eclipse.om2m:pom:1.1.0.qualifier in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 20
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 15 common frames omitted
+2018-04-18 00:34:28,352 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:34:28,364 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:34:28,365 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:34:28,388 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.sonatype.tycho.m2e.tychoLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier @ /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml.
+2018-04-18 00:34:46,116 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:34:46,116 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:35:43,020 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:35:43,033 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:35:43,034 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Failure to transfer org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins:maven-site-plugin/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): No route to proxy-host:0; port is out of range
+2018-04-18 00:35:43,035 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.sonatype.tycho.m2e.tychoLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.om2m:sample.ipe:1.0.0.qualifier @ /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml.
+2018-04-18 00:36:51,486 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2018-04-18 00:36:52,174 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2018-04-18 00:36:52,735 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2018-04-18 00:36:53,664 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2018-04-18 00:36:53,991 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2018-04-18 00:36:54,949 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2018-04-18 00:36:55,368 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2018-04-18 00:36:55,600 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+2018-04-18 00:36:56,193 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2018-04-18 00:36:56,401 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2018-04-18 00:36:56,608 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2018-04-18 00:36:57,556 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2018-04-18 00:36:57,883 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2018-04-18 00:36:58,107 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2018-04-18 00:36:58,344 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2018-04-18 00:36:59,345 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2018-04-18 00:36:59,603 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2018-04-18 00:36:59,807 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2018-04-18 00:37:00,206 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2018-04-18 00:37:00,414 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2018-04-18 00:37:00,621 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2018-04-18 00:37:01,025 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+2018-04-18 00:37:01,620 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2018-04-18 00:37:01,825 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+2018-04-18 00:37:02,033 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2018-04-18 00:37:02,438 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+2018-04-18 00:37:02,674 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2018-04-18 00:37:02,879 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2018-04-18 00:37:03,262 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2018-04-18 00:37:03,467 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2018-04-18 00:37:03,673 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2018-04-18 00:37:04,436 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2018-04-18 00:37:04,649 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+2018-04-18 00:37:04,874 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+2018-04-18 00:37:05,164 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2018-04-18 00:37:05,367 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2018-04-18 00:37:05,820 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2018-04-18 00:37:06,075 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2018-04-18 00:37:06,282 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2018-04-18 00:37:06,589 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2018-04-18 00:37:06,949 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom
+2018-04-18 00:37:07,180 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.5/plexus-utils-1.4.5.pom
+2018-04-18 00:37:07,428 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2018-04-18 00:37:07,892 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2018-04-18 00:37:08,100 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2018-04-18 00:37:08,366 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2018-04-18 00:37:09,205 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2018-04-18 00:37:10,327 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2018-04-18 00:37:10,556 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2018-04-18 00:37:10,759 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2018-04-18 00:37:11,146 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2018-04-18 00:37:11,552 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2018-04-18 00:37:11,862 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2018-04-18 00:37:12,080 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2018-04-18 00:37:12,312 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2018-04-18 00:37:12,518 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2018-04-18 00:37:12,733 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2018-04-18 00:37:16,841 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2018-04-18 00:37:17,306 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2018-04-18 00:37:18,489 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2018-04-18 00:37:18,733 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2018-04-18 00:37:18,965 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2018-04-18 00:37:19,674 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2018-04-18 00:37:19,893 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2018-04-18 00:37:20,266 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+2018-04-18 00:37:21,159 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+2018-04-18 00:37:21,403 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar
+2018-04-18 00:37:22,262 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.jar
+2018-04-18 00:37:22,465 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2018-04-18 00:37:23,045 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2018-04-18 00:37:23,345 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2018-04-18 00:37:24,536 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2018-04-18 00:37:24,877 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2018-04-18 00:37:25,091 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2018-04-18 00:37:25,320 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2018-04-18 00:37:27,237 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2018-04-18 00:37:27,530 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.om2m:org.eclipse.om2m.sample.ipe:1.0.0.qualifier @ /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/pom.xml.
+2018-04-18 00:37:27,810 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2018-04-18 00:37:28,024 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2018-04-18 00:37:28,550 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2018-04-18 00:37:28,756 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2018-04-18 00:37:29,031 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2018-04-18 00:37:30,040 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2018-04-18 00:37:30,128 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:37:30,129 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/main/resources
+2018-04-18 00:37:30,136 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:37:30,136 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/test/resources
+2018-04-18 00:37:31,505 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/lephuc/git/org.eclipse.om2m
+2018-04-18 00:37:31,505 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-04-18 00:39:12,359 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:39:12,365 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/main/resources
+2018-04-18 00:39:12,371 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-18 00:39:12,377 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/lephuc/eclipse-workspace/org.eclipse.om2m.sample.ipe/src/test/resources
