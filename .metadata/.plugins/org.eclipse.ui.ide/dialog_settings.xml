@@ -3,4 +3,7 @@
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
 		<item value="/home/lephuc/git/org.eclipse.om2m"/>
 	</list>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="/home/lephuc/git/org.eclipse.om2m" key="OUTSIDE_LOCATION"/>
+	</section>
 </section>
