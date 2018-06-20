@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/mongo-hadoop-spark-2.0.2.jar"/>
+	<classpathentry kind="lib" path="src/mongo-hadoop-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/mongo-hadoop-streaming-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/mongodb-driver-3.6.3.jar"/>
+	<classpathentry kind="lib" path="src/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="mongo-java-driver-3.2.1.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="spark-core_2.11-2.3.0.jar"/>
+	<classpathentry kind="lib" path="scala-library-2.11.8.jar"/>
+	<classpathentry kind="lib" path="guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="spark-streaming-kafka_2.11-1.4.0.jar"/>
+	<classpathentry kind="lib" path="spark-network-common_2.10-2.0.0.jar"/>
+	<classpathentry kind="lib" path="common-lang3.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="flume-ng-core-1.6.0.jar"/>
+	<classpathentry kind="lib" path="flume-jdbc-channel-1.8.0.jar"/>
+	<classpathentry kind="lib" path="flume-tools-1.8.0.jar"/>
+	<classpathentry kind="lib" path="flume-0.9.3-core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

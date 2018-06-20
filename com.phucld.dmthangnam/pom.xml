@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dmthangnam</groupId>
+  <artifactId>com.phucld.dmthangnam</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>dmthangnam</name>
+  <description>dm thang nam</description>
+  <dependencies>
+  	
+  	<dependency>
+  		<groupId>org.mongodb.mongo-hadoop</groupId>
+  		<artifactId>mongo-hadoop-core</artifactId>
+  		<version>1.5.1</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.apache.spark</groupId>
+  		<artifactId>spark-core_2.11</artifactId>
+  		<version>2.2.1</version>
+  	</dependency>
+  </dependencies>
+</project>

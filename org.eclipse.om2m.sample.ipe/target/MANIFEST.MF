@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Automatic-Module-Name: org.eclipse.om2m.sample.ipe
 Bundle-SymbolicName: org.eclipse.om2m.sample.ipe
 Bundle-Name: Ipe
-Bundle-Version: 1.0.0.20180420-0243
+Bundle-Version: 1.0.0.20180509-1051
 Bundle-ManifestVersion: 2
 Bundle-Activator: org.eclipse.om2m.sample.ipe.Activator
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7

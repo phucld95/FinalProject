@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1525683891788_2" label="org.eclipse.om2m.sdt.home.applications" name="org.eclipse.om2m.sdt.home.applications"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523987513114_0" label="Window Working Set" name="Aggregate for window 1523987513114"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1524018791655_1" label="Window Working Set" name="Aggregate for window 1524018791655"/>
 </workingSetManager>
